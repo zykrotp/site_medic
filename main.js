@@ -1,0 +1,1 @@
+const di = document.querySelector('.com')
